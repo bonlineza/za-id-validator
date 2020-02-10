@@ -1,5 +1,5 @@
 {
-    "name": "semicolonza/za-id-validator",
+    "name": "bonlineza/za-id-validator",
     "description": "Package to parse and validate South African ID Numbers",
     "license": "MIT",
     "require-dev": {
@@ -7,8 +7,12 @@
     },
     "authors": [
         {
-            "name": "Tali Luvhengo",
-            "email": "tali@semicolon.co.za"
+            "name": "Willem Van Wyk",
+            "email": "willem@bonline.co.za"
+        },
+        {
+            "name": "Shaun Van Tonder",
+            "email": "shaun@bonline.co.za"
         }
     ],
     "autoload": {
